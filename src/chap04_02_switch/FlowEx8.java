@@ -1,4 +1,4 @@
-package chap04_switch;
+package chap04_02_switch;
 
 import java.util.Scanner;
 

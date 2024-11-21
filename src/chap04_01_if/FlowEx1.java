@@ -1,4 +1,4 @@
-package chap04_if;
+package chap04_01_if;
 
 public class FlowEx1 {
     public static void main(String[] args) {
